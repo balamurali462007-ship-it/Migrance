@@ -32,7 +32,20 @@ Built with React (Vite), the application focuses on clarity, usability, and a sm
 ## Installation
 
 ```bash
-git clone https://github.com/your-username/migrance.git
+git clone https://github.com/balamurali462007-ship-it/migrance.git
 cd migrance
 npm install
 npm run dev
+
+---
+
+Usage
+Start the development server
+Open the application in your browser
+Navigate through pages to explore features
+Use the chatbot and tools for assistance
+Future Improvements
+Integration with real AI models
+User authentication
+Real-time data and analytics
+Expanded country support
